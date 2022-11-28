@@ -6,7 +6,7 @@ Nuestro proyecto final consiste en implementar las redes neuronales, a modo de q
 Para esto hicimos uso de una red neuronal multicapa, la cual cuenta con 7 neuronas en la capa de entrada, este número no fue aleatorio, la razón principal de nuestra arquitectura es que cada neurona maneja un valor referente al juego, a continuación adjuntamos una diagrama con la arquitectura y con el valor que maneja cada neurona.
 
 ## Correr el Proyecto 🚘
-Para correr solo es necesario python, sino lo tienes ve a la pagina oficial de [Python,](https://www.python.org/) una vez instalado y comprobado que funciona correctamente, hay que descagar los modulos necesarios para correr el programa:
+Para correr solo es necesario python, sino lo tienes ve a la pagina oficial de <a href="https://www.python.org/" target="_blank">Python</a> una vez instalado y comprobado que funciona correctamente, hay que descagar los modulos necesarios para correr el programa:
 ```
 pip install pygame
 pip install neat-python   
