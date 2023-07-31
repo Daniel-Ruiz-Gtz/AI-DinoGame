@@ -1,20 +1,22 @@
-# Proyecto Séminario Inteligencia Artificial 2 Dino
-Proyecto tema libre para demostrar lo aprendido dentro de la clase Seminario de Inteligencia Artificial 2, en donde una IA aprende a jugar el juego de Dino
+# Project Artificial Intelligence Seminar 2 Dino
 
-## Introducción 🚀
-Nuestro proyecto final consiste en implementar las redes neuronales, a modo de que la IA aprenda a jugar el famoso juego del dinosaurio del navegador google. <br>
-Para esto hicimos uso de una red neuronal multicapa, la cual cuenta con 7 neuronas en la capa de entrada, este número no fue aleatorio, la razón principal de nuestra arquitectura es que cada neurona maneja un valor referente al juego, a continuación adjuntamos una diagrama con la arquitectura y con el valor que maneja cada neurona.
+A free topic project to demonstrate what we have learned in the Artificial Intelligence Seminar 2 class, where an AI learns to play the Dino game.
 
-## Correr el Proyecto 🚘
-Para correr solo es necesario python, sino lo tienes ve a la pagina oficial de <a href="https://www.python.org/" target="_blank">Python</a> una vez instalado y comprobado que funciona correctamente, hay que descagar los modulos necesarios para correr el programa:
+## Introduction 🚀
+Our final project consists of implementing neural networks to enable an AI to play the famous Google Chrome dinosaur game. <br>
+For this purpose, we used a multi-layer neural network with 7 neurons in the input layer. This number was not chosen randomly; the main reason for this architecture is that each neuron handles a value related to the game. Below is a diagram of the architecture, along with the value each neuron handles.
+
+## Running the Project 🚘
+To run the project, you only need Python. If you don't have it, go to the official <a href="https://www.python.org/" target="_blank">Python website</a> to download and install it. Once Python is installed and verified to be working correctly, you need to download the necessary modules to run the program:
 ```
 pip install pygame
 pip install neat-python   
 ```
-Por ultimo solop hay que correr el comando dentro de la carpeta del proyecto:
+Finally, you just need to run the following command within the project folder:
 ```
 python main.py   
 ```
-## Integrantes 👨‍🚀👨‍🚀
-- Chavez Gomez Alejandro (Código: 218744619)
-- Ruiz Gutierrez Daniel de la Cruz (Código: 215470755)
+
+## Team Members 👨‍🚀👨‍🚀
+- Chavez Gomez Alejandro (ID: 218744619)
+- Ruiz Gutierrez Daniel de la Cruz (ID: 215470755)
